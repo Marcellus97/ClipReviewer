@@ -1,0 +1,48 @@
+# macOS metadata
+.DS_Store
+
+# Python-generated files
+__pycache__/
+*.py[cod]
+.venv/
+
+# Local media inputs and generated outputs
+*.gif
+*.apkg
+*.vtt
+clips/
+clips.json
+review.html
+
+# Raw and rendered audio
+*.aac
+*.aif
+*.aiff
+*.alac
+*.flac
+*.m4a
+*.mp3
+*.ogg
+*.opus
+*.wav
+*.wma
+
+# Raw and rendered video
+*.3gp
+*.ari
+*.avi
+*.braw
+*.flv
+*.m2ts
+*.m4v
+*.mkv
+*.mov
+*.mp4
+*.mpeg
+*.mpg
+*.mts
+*.mxf
+*.r3d
+*.ts
+*.webm
+*.wmv
